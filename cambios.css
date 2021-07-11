@@ -1,0 +1,42 @@
+
+/* En línea #23 | https://www.puntacanatourstaiguey.com/ */
+
+.main-bar .right-area {
+  margin-right: 20px;
+}
+
+/* En línea #11 | https://www.puntacanatourstaiguey.com/ */
+
+.slogan2 p {
+  display: inline;
+}
+
+/* En línea #15 | https://www.puntacanatourstaiguey.com/ */
+
+.headband2 {
+  text-align: center;
+  padding: 4px 0;
+}
+
+/* En línea #12 | https://www.puntacanatourstaiguey.com/ */
+
+@media screen and (max-width: 768px) {
+  .slogan2 {
+    /* position: initial; */
+    /* margin-left: 21%; */
+    position: initial;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* b0bb2.css | https://www.puntacanatourstaiguey.com/wp-content/litespeed/cssjs/b0bb2.css?f55d0 */
+
+.header-classic #Top_bar {
+  /* background-color: #fff; */
+}
+
+/* En línea #24 | https://www.puntacanatourstaiguey.com/ */
+
+#Top_bar {
+}
